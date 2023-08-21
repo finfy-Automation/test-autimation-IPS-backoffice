@@ -29,9 +29,11 @@
   "no-trailing-spaces": [
       "error"
   ],
+  "require-jsdoc":"off",
+  "max-len": ["error", { "code": 200 }],
   "cypress/no-force": "error",
   "cypress/assertion-before-screenshot": "error",
-  "cypress/require-data-selectors": "warn",
+  //"cypress/require-data-selectors": "warn",
   "cypress/no-pause": "error"
   }
 }
