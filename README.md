@@ -5,6 +5,8 @@ Testes E2E dos principais cenários do backoffice do Online IPS
 1. npm install
 2. npm run cy:open
 
+# Fluxos Principais mapeados
+- Login
 # Executar Tests
 ## Executa todos os testes
 npm run cy:execution
