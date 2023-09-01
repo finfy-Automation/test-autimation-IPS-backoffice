@@ -8,7 +8,7 @@ module.exports = defineConfig({
     "defaultCommandTimeout": 10000,
     "viewportWidth": 1920,
     "viewportHeight": 1400,
-    baseUrl: "https://shopkeeper.dev.cartos.solutions/",
+    baseUrl: "https://backoffice.gatewaypix.onlineips.dev.finfy.com.br/",
     chromeWebSecurity: false,
     video: false,
     screenshotOnRunFailure: true
